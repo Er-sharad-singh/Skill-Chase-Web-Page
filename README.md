@@ -7,7 +7,6 @@ Features :-
 
 Responsive Navigation Bar: A flexbox-based navigation bar with stylish hover effects.
 Interactive Form: Input boxes with unique animations for a modern user experience.
-Collapsible Content Blocks: Sections that can be expanded or collapsed with dynamic symbols changing between '+' and '-'.
 Styled Buttons: Custom login button with hover and click animations.
 Icons and Symbols: Integrated icons and symbols to enhance the visual appeal of the content.
 Custom Animations: Added animations like glowing effects using box-shadow for a sleek look.
