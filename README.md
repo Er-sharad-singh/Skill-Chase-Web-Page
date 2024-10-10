@@ -1,6 +1,6 @@
 # Skill-Chase-Web-Page
 # Overview 
-This project is a demonstration of my skills in HTML and CSS, developed during my internship. The web page showcases various components and features that I have built, including a responsive layout, interactive elements, and animations. The design is focused on aesthetics, usability, and performance.
+This project is a demonstration of my skills in HTML and CSS, developed during my internship. The web page showcases various components and features that I have built, including a responsive layout, interactive elements, and animations. The design is focused on aesthetics, usability, and performance.You can view page by visiting on https://er-sharad-singh.github.io/Skill-Chase-Web-Page/
 # Features 
 * Responsive Navigation Bar: A flexbox-based navigation bar with stylish hover effects.
 * Interactive Form: Input boxes with unique animations for a modern user experience.
